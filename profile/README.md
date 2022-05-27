@@ -30,3 +30,5 @@
 
 <h4> Invite this cute little bot to your amazing server and have a fun experience.
 ヽ(⌒▽⌒)ﾉ</h4>
+
+[Invite here!](https://kuubot.xyz/invite)
