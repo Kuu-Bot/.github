@@ -1,23 +1,32 @@
-# Privacy Policy
-## Privacy is a fundamental human right, 
-By adding Kuu into your sever you’re trusting us with your information.
-We know that it's a huge responsibility for us to protect your personal information
+# Kuu
+#### A powerful moderation, utility, reaction, fun and nsfw(included) bot uwu! made to make your work easy, convenient and fun. 
+<h3>An absolute Cute Moderation and Utility Bot.</h3>
 
-This Privacy Policy explains to you the information we collect, why we collect it, How long do we store the information.
+<blockquote>• Manage your server with cute and advanced moderation including banning, purging, kicking, warning and many more.
 
-<h4>What type of information does Kuu collect?</h4>
-We collect your Guild IDs, Channel IDs and Member IDs only for moderation purposes. It is collected at the assignment of tasks for example Warning, Setting up a log channel and the guild ID is used for the bot to identify your specific server.
+• Next level of moderation system.
 
-<h4>Does Kuu store any other data apart from this?</h4>
-We don't store any type of data other than Guild ID's, Channel ID's and Member ID's.
+• High level of channel locking system.
 
-<h4>What is the information deleting period?</h4>
-As soon as you kick Kuu from your server we delete your guild ID, in case a member of your server is correspondent to another server he/her ID wouldn't be deleted.
-<br></br>
-<blockquote>•We respect the privacy of your personal information you can trust us, we won't let out any of your information.
-<br></br>
-•Kuu is DDoS protected and no other/outsider can get access to the code, you can trust us we will try our best to keep your information safe and secure.
-<br></br>
-•This policy may be modified in the future as needed. We will make these changes publicly.</blockquote>
+• Reaction and wallpaper anime commands.
 
-<h3>Thank you for adding us to your server and for trusting us with your information.</h3>
+• Kuu includes anime search, character search and anime news.
+
+• NSFW commands.
+
+• Gif search as per your needs.
+
+• This cute bot include fun commands like jokes, insult, advanced 8ball, astronomy and much more.
+
+• Unlimited utility everything that you require in managing your server easily and cutely.
+
+• Also includes advanced translation and wikipedia search.
+
+• 99.9% Uptime.
+
+• Frequently Updated.
+
+• Featuring over 90+ commands.</blockquote>
+
+<h4> Invite this cute little bot to your amazing server and have a fun experience.
+ヽ(⌒▽⌒)ﾉ</h4>
